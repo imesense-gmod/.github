@@ -2,7 +2,9 @@
   <img src="https://cdn.discordapp.com/banners/1529113553263526071/a_216419b305f59544f3e239c6f89b8bcf.webp?size=1024&animated=true" alt="ImeSense Banner" width="100%">
 </p>
 
-**ImeSense**. Мы разрабатываем свой собственный HL2RP проект на базе режима написанного с нуля в стилистике городского RP. Основная идея сервера - дать игрокам полную свободу выбора: каждый сам решает, как ему играть и какого стиля отыгровки придерживаться.
+# ImeSense <img src="assets/icon.png" alt="ImeSense Icon" width="32" height="32" style="vertical-align: middle;" />
+
+Мы разрабатываем свой собственный HL2RP проект на базе режима написанного с нуля в стилистике городского RP. Основная идея сервера - дать игрокам полную свободу выбора: каждый сам решает, как ему играть и какого стиля отыгровки придерживаться.
 
 <p align="right"><a href="https://open.spotify.com/track/0GqChhBLTIHEr07iKnbb3W?si=9948edb119324195">♫ Sh-Boom - The Chords</a></p>
 
