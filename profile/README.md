@@ -2,7 +2,9 @@
   <img src="https://cdn.discordapp.com/banners/1529113553263526071/a_216419b305f59544f3e239c6f89b8bcf.webp?size=1024&animated=true" alt="ImeSense Banner" width="100%">
 </p>
 
-# ImeSense <img src="assets/logo.png" alt="ImeSense Icon" width="32" height="32" style="vertical-align: middle;" />
+<h1 align="center">
+  <img src="assets/logo.png" alt="Logo" width="32" height="32" style="vertical-align: middle;" /> ImeSense
+</h1>
 
 Мы разрабатываем свой собственный HL2RP проект на базе режима написанного с нуля в стилистике городского RP. Основная идея сервера - дать игрокам полную свободу выбора: каждый сам решает, как ему играть и какого стиля отыгровки придерживаться.
 
