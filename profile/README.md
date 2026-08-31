@@ -4,7 +4,7 @@
 
 <p align="center">
   <sub><img src="assets/logo.png" alt="ImeSense Logo" width="30" height="30" /></sub>
-  <b><font size="12">ImeSense</font></b>
+  <b><font size="7">ImeSense</font></b>
 </p>
 
 ---
