@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="assets/logo.png" alt="ImeSense Logo" width="32" height="32" align="middle" /> ImeSense
+  <sub><img src="assets/logo.png" alt="ImeSense Logo" width="30" height="30" /></sub> ImeSense
 </h1>
 
 Мы разрабатываем свой собственный HL2RP проект на базе режима написанного с нуля в стилистике городского RP. Основная идея сервера - дать игрокам полную свободу выбора: каждый сам решает, как ему играть и какого стиля отыгровки придерживаться.
