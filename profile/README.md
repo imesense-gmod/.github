@@ -6,8 +6,6 @@
 
 <p align="right"><a href="https://open.spotify.com/track/0GqChhBLTIHEr07iKnbb3W?si=9948edb119324195">♫ Sh-Boom - The Chords</a></p>
 
-Наше сообщество появилось в ровно 1го августа, 2026 года, так что, эта дата - наш день рождения!
-
 <p align="center">
   <a href="https://imesense.me"><img align="center" src="https://img.shields.io/badge/Сайт-imesense.me-%231b242c?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://discord.gg/imesense"><img align="center" src="https://img.shields.io/badge/Discord-imesense-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -17,7 +15,8 @@
 
 ## 📌 Разработка
 
-- **HL2RP** На стадии ранней разработки, ЗБТ - Сентябрь 2026
+- **HL2RP** — режим на стадии ранней разработки, ЗБТ планируется в сентябре 2026 года.  
+  > Наше сообщество зародилось 1 августа 2026 года, именно этот день считаем нашим днём рождения!
 
 ---
 
