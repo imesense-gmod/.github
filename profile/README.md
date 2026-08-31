@@ -6,8 +6,6 @@
   <sub><img src="assets/logo.png" alt="ImeSense Logo" width="30" height="30" /></sub> ImeSense
 </h1>
 
----
-
 Мы разрабатываем свой собственный HL2RP проект на базе режима написанного с нуля в стилистике городского RP. Основная идея сервера - дать игрокам полную свободу выбора: каждый сам решает, как ему играть и какого стиля отыгровки придерживаться.
 
 <p align="right"><a href="https://open.spotify.com/track/0GqChhBLTIHEr07iKnbb3W?si=9948edb119324195">♫ Sh-Boom - The Chords</a></p>
