@@ -2,9 +2,10 @@
   <img src="https://cdn.discordapp.com/banners/1529113553263526071/a_216419b305f59544f3e239c6f89b8bcf.webp?size=1024&animated=true" alt="ImeSense Banner" width="100%">
 </p>
 
-<h1 align="center">
-  <sub><img src="assets/logo.png" alt="ImeSense Logo" width="30" height="30" /></sub> ImeSense
-</h1>
+<p align="center">
+  <sub><img src="assets/logo.png" alt="ImeSense Logo" width="30" height="30" /></sub>
+  <b><font size="6">ImeSense</font></b>
+</p>
 
 ---
 
