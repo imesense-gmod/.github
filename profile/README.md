@@ -24,8 +24,8 @@
 
 Увы и ах, пока что мы держим наши разработки в закрытом виде, однако некоторые репозитории открыты для всех, но в основе своей несут лишь информационную часть проектов:
 
-- [hl2rp-languages](https://github.com/ImeSense/hl2rp-languages) - языковые файлы и переводы
-- [hl2rp-configs](https://github.com/ImeSense/hl2rp-configs) - конфиги и баланс
+- [hl2rp-languages](https://github.com/imesense-gmod/hl2rp-languages) - языковые файлы и переводы
+- [hl2rp-configs](https://github.com/imesense-gmod/hl2rp-configs) - конфиги и баланс
 
 ---
 
